@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECNN_V3</string>
+    <string name="select_image">Select Image</string>
+    <string name="detect_object">Start Image Recognition with server</string>
+</resources>
